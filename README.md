@@ -6,6 +6,10 @@
 
 - 🚧 Estado del proyecto: en construcción. 🚧
 
+Para ejecutar el sistema, debemos poner: 
+
+```npm install react````
+
 ## Autor
 
 |[<img src="https://avatars.githubusercontent.com/u/194618244?s" width=115><br><sub>RamsRD</sub>](https://github.com/RamsRD)|
