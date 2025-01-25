@@ -8,4 +8,4 @@
 
 ## Autor
 
-|[<img src="https://avatars.githubusercontent.com/u/194618244?s" width=115><br><sub>Rams Rd</sub>]| (https://github.com/RamsRD)|
+|[<img src="https://avatars.githubusercontent.com/u/194618244?s" width=115><br><sub>RamsRd</sub>]| (https://github.com/RamsRD)|
